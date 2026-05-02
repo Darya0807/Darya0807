@@ -4,7 +4,7 @@
    Прохожу курс «Фронтенд-разработка» в **Яндекс Практикуме**
 
 🔭 Мои проекты:
-1. SPA-сайт для студии танцев (React, Redux, PostgreSQL)
+1. SPA-сайт для студии танцев (React, Redux, PostgreSQL, Node.js Express)
 2. [Сайт-портфолио](https://github.com/Darya0807/Resume) - персональный сайт-визитка **(HTML, CSS, JavaScript)**
 3. ["Оно тебе надо"](https://github.com/Darya0807/ono-tebe-nado-fd) - лендинг для аукциона необычных вещей **(HTML, CSS)**
 4. ["Закрывающий тег"](https://github.com/Darya0807/zakrivayuschiy-teg-f) - лендинг-дневник, рассказывающий о личном опыте обучения фронтенд-разработке **(HTML, CSS)**
